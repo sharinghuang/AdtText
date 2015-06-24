@@ -11,7 +11,7 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-		Log.v("sharing", "测试的");
+		Log.v("sharing", "测试数据提交");
 	}
 
 	@Override
